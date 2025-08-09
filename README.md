@@ -38,9 +38,8 @@ Top Category: Classic Pizzas
 Top Size: Large Pizzas
 
 📂 Project Structure
-bash
-Copy
-Edit
+
+
 📁 Pizza-Sales-Dashboard
 │── 📄 README.md
 │── 📊 Pizza_Sales_Dashboard.pbix   # Power BI file
@@ -60,4 +59,11 @@ Open Pizza_Sales_Dashboard.pbix in Power BI to explore the interactive dashboard
 
 
 📸 Dashboard Preview
+
+<img width="1142" height="627" alt="Home Dashboard" src="https://github.com/user-attachments/assets/3c9b6600-b9b6-4a4e-bb35-83722bcdbea9" />
+
+
+<img width="1140" height="628" alt="Dashboard 2" src="https://github.com/user-attachments/assets/5821baad-2c15-494a-b08b-44771e20d015" />
+
+
 
